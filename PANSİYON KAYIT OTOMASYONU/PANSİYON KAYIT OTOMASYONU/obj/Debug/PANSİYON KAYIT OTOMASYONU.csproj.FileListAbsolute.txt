@@ -1,0 +1,25 @@
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\bin\Debug\PANSİYON KAYIT OTOMASYONU.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\bin\Debug\PANSİYON KAYIT OTOMASYONU.exe
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\bin\Debug\PANSİYON KAYIT OTOMASYONU.pdb
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON KAYIT OTOMASYONU.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON KAYIT OTOMASYONU.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON KAYIT OTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON KAYIT OTOMASYONU.exe
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON KAYIT OTOMASYONU.pdb
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.FrmYeniMusteri.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.FrmAdminGirişi.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.FrmAnaForm.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.frmodalar.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.frmmusteriler.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.frmgelirgider.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.frmstoklar.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\bin\Debug\Interop.WMPLib.dll
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\Interop.WMPLib.dll
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON KAYIT OTOMASYONU.csproj.ResolveComReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.frmradiodinle.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.frmgazeteler.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.frmsifregüncelle.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\PANSİYON KAYIT OTOMASYONU\PANSİYON KAYIT OTOMASYONU\obj\Debug\PANSİYON_KAYIT_OTOMASYONU.frmmesajlar.resources

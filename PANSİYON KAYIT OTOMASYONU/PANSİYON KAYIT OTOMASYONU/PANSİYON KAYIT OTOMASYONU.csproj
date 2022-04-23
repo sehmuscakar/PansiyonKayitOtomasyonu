@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B212B5C5-82C9-4083-BB3B-03C3A8E79E17}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PANSİYON_KAYIT_OTOMASYONU</RootNamespace>
+    <AssemblyName>PANSİYON KAYIT OTOMASYONU</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAnaForm.Designer.cs">
+      <DependentUpon>FrmAnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmgazeteler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmgazeteler.Designer.cs">
+      <DependentUpon>frmgazeteler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmgelirgider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmgelirgider.Designer.cs">
+      <DependentUpon>frmgelirgider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmmesajlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmesajlar.Designer.cs">
+      <DependentUpon>frmmesajlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmmusteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmusteriler.Designer.cs">
+      <DependentUpon>frmmusteriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmodalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmodalar.Designer.cs">
+      <DependentUpon>frmodalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmradiodinle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmradiodinle.Designer.cs">
+      <DependentUpon>frmradiodinle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmsifregüncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsifregüncelle.Designer.cs">
+      <DependentUpon>frmsifregüncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmstoklar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmstoklar.Designer.cs">
+      <DependentUpon>frmstoklar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmYeniMusteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmYeniMusteri.Designer.cs">
+      <DependentUpon>FrmYeniMusteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pansiyon_otomasyonDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pansiyon_otomasyonDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pansiyon_otomasyonDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pansiyon_otomasyonDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pansiyon_otomasyonDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pansiyon_otomasyonDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAnaForm.resx">
+      <DependentUpon>FrmAnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmgazeteler.resx">
+      <DependentUpon>frmgazeteler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmgelirgider.resx">
+      <DependentUpon>frmgelirgider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmesajlar.resx">
+      <DependentUpon>frmmesajlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmusteriler.resx">
+      <DependentUpon>frmmusteriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmodalar.resx">
+      <DependentUpon>frmodalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmradiodinle.resx">
+      <DependentUpon>frmradiodinle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsifregüncelle.resx">
+      <DependentUpon>frmsifregüncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmstoklar.resx">
+      <DependentUpon>frmstoklar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmYeniMusteri.resx">
+      <DependentUpon>FrmYeniMusteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="pansiyon_otomasyonDataSet.xsc">
+      <DependentUpon>pansiyon_otomasyonDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyon_otomasyonDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pansiyon_otomasyonDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pansiyon_otomasyonDataSet.xss">
+      <DependentUpon>pansiyon_otomasyonDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyon_otomasyonDataSet1.xsc">
+      <DependentUpon>pansiyon_otomasyonDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyon_otomasyonDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pansiyon_otomasyonDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pansiyon_otomasyonDataSet1.xss">
+      <DependentUpon>pansiyon_otomasyonDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyon_otomasyonDataSet2.xsc">
+      <DependentUpon>pansiyon_otomasyonDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyon_otomasyonDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pansiyon_otomasyonDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pansiyon_otomasyonDataSet2.xss">
+      <DependentUpon>pansiyon_otomasyonDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
